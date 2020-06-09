@@ -1,0 +1,25 @@
+/* Chosen Color Palette:
+  #142850 (navy)
+  #27496d (muted royal)
+  #00909e (blueish teal)
+  #dae1e7 (light gray) */
+
+
+body {
+  background-color: #dae1e7;
+}
+
+h1 {
+  color: #27496d;
+  padding-top: 1.0rem;
+  padding-bottom: 0.4rem;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+main {
+  padding-left: 20px;
+  color: #27496d;
+}
+
+

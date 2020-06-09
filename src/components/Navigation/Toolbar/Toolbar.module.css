@@ -1,0 +1,18 @@
+.Toolbar {
+    background-color: #27496d;
+    font-family: 'Nunito', sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 40px;
+}
+
+.Name {
+    color: #00909e;
+    font-weight: 900;
+    font-size: 1.1em;
+}
+

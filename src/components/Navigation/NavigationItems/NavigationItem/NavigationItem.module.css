@@ -1,0 +1,15 @@
+.NavigationItem {
+    margin: 10px;
+    text-decoration: none;    
+}
+
+.NavigationItem a {
+    color: #dae1e7;
+    text-decoration: none;
+}
+
+.NavigationItem a:hover,
+.NavigationItem a:active {
+    color: #00909e;
+    font-weight: bold;
+}
