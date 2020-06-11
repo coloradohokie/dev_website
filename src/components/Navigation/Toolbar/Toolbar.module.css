@@ -1,5 +1,5 @@
 .Toolbar {
-    background-color: #27496d;
+    background-color: var(--header-color);
     font-family: 'Nunito', sans-serif;
     display: flex;
     flex-direction: row;
@@ -11,8 +11,9 @@
 }
 
 .Name {
-    color: #00909e;
+    color: var(--accent-color);
     font-weight: 900;
     font-size: 1.1em;
+    padding-bottom: 0;
 }
 

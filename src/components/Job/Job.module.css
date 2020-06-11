@@ -1,0 +1,16 @@
+.BulletList {
+    list-style-type: disc;
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;    
+}
+
+.BulletList li {
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+}
+
+.Titlebar {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
