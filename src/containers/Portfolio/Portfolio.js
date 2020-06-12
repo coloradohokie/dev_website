@@ -1,5 +1,6 @@
 import React from 'react'
 import PortfolioPiece from '../../components/PortfolioPiece/PortfolioPiece'
+import image from '../../assets/engineering-project-manager.jpg'
 
 const portfolio = () => (
     <div>
@@ -10,9 +11,9 @@ const portfolio = () => (
             name="Engineering Project Management App"
             frontendUrl="https://github.com/coloradohokie/eng-mgmt-tool-frontend"
             backendUrl="https://github.com/coloradohokie/eng-mgmt-tool-backend"
-            website="https://engineering-project-manager.firebaseapp.com/"
-            videoUrl=""
-            image=""
+            websiteUrl="https://engineering-project-manager.firebaseapp.com/"
+            videoUrl='<iframe width="560" height="315" src="https://www.youtube.com/embed/ECDzoRJHfdA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+            image="../../assets/engineering-project-manager.jpg"
             date="June, 2020"
             languages="React.js, HTML, CSS, Ruby">
                 <p>Originally created to fill a requirement for Module 4 of Flatiron School, this project has become my baby. And I mean that not just that I care about it a lot and dote over it, but also in that it keeps me up at night, complains about what I'm doing frequently without providing many clues on how to fix it, and I'm constantly looking for ways to make it better.</p>
