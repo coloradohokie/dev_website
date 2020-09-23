@@ -5,10 +5,10 @@
   #dae1e7 (light gray) */
 
 :root {
-  --background-color: #dae1e7; /*light gray*/
-  --header-color: #142850; /* navy */
-  --text-color: #27496d; /* muted royal blue */
-  --accent-color: #00909e; /*blueish teal */
+  --background-color: #bbe1fa; /*light gray*/
+  --header-color: #1b262c; /* navy */
+  --text-color: #0f4c75; /* muted royal blue */
+  --accent-color: #3282b8; /*blueish teal */
 }
 
 
